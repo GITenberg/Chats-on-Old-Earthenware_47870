@@ -1,4 +1,8 @@
 _repo: Chats-on-Old-Earthenware_47870
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47870-h/images/cover.jpg
 creator:
   author:
     agent_name: Hayden, Arthur
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '37297'
     url: http://www.gutenberg.org/2009/agents/37297
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47870#Chats-on-Old-Earthenware
 gutenberg_issued: '2015-01-04'
 gutenberg_type: Text
 identifiers:
